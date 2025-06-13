@@ -80,4 +80,14 @@ button.next {
   padding: 40px 20px;
   background: #fff;
   text-align: center;
+  background-color: rgba(255, 255, 255, 0.25); /* mesmo efeito do carrossel */
+  backdrop-filter: blur(6px);
+  padding: 40px 20px;
+  margin: 0 auto;
+  width: 90%;
+  max-width: 900px;
+  border-radius: 12px;
+  text-align: center;
+  color: #000;
 }
+
